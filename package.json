@@ -1,0 +1,9 @@
+{
+    "name": "my-project",
+    "devDependencies": {
+        "jest": "^23.1.0"
+    },
+    "jest": {
+        "verbose": true
+    }
+}
